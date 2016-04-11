@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Effective Analytics]]></title>
+        <description><![CDATA[Effective Analytics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 01:10:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Smarter Data is Better Data]]></title>
+            <description><![CDATA[<article><h1>Why Smarter Data is Better Data</h1><p>At a recent event at Wharton San Francisco, WCAI Co-Directors Eric Bradlow Pete Fader, together with Bill Franks, Chief Analytics Officer at Teradata discussed why intelligently compressing datasets should be part of any organization's analytics best practices. Why is smaller smarter?</p></article>]]></description>
+            <link>http://wcai.wharton.upenn.edu/blog/smarter-data-better-data/</link>
+            <guid isPermaLink="false">6a1d8ad7-2799-4111-a652-207ae71f64ab</guid>
+            <pubDate>Mon, 11 Apr 2016 01:10:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
