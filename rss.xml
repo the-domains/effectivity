@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Effective Analytics]]></title>
         <description><![CDATA[Effective Analytics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/effectivity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 01:10:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 00:12:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/effectivity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Set Up a Google Analytics Experiments Split Test]]></title>
+            <description><![CDATA[<article><h1>How to Set Up a Google Analytics Experiments Split Test</h1><p>Tell you what. In this post, I will show you how you can set up your first simple test completely for free. Do you need any special skills? No. Do you need to sign up for a trial of an expensive A/B testing software? No. The stack we'll use is: Google Analytics Experiments and WordPress.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adaf90215f5a4fee7f438ce980dfc06a0a0a3650.png"></article>]]></description>
+            <link>http://www.designforfounders.com/google-analytics-experiments/</link>
+            <guid isPermaLink="false">69835b64-d6b1-47b8-a424-16e7f4c9476d</guid>
+            <pubDate>Tue, 12 Apr 2016 00:12:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Smarter Data is Better Data]]></title>
             <description><![CDATA[<article><h1>Why Smarter Data is Better Data</h1><p>At a recent event at Wharton San Francisco, WCAI Co-Directors Eric Bradlow Pete Fader, together with Bill Franks, Chief Analytics Officer at Teradata discussed why intelligently compressing datasets should be part of any organization's analytics best practices. Why is smaller smarter?</p></article>]]></description>
